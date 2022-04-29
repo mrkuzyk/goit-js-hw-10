@@ -18,3 +18,28 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+p{
+  margin-left: 3px;
+}
+
+li{
+  list-style: none;
+}
+
+.flag{
+  height: 30px;
+  width: 40px;
+  display: inline-block;
+  /* margin-top: 20px; */
+  margin-right: 10px;
+  margin-bottom: 0;
+  margin-left: 5px;
+}
+
+.country{
+  display: inline-block;
+  align-items: baseline;
+  margin-top: 0px;
+  margin-bottom: 0;
+}
